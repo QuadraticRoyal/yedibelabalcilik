@@ -1,97 +1,195 @@
-C:\Users\Ali Yedibela\BalKasar\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\Ali Yedibela\BalKasar\bin\Debug\net9.0\appsettings.json
-C:\Users\Ali Yedibela\BalKasar\bin\Debug\net9.0\BalKasar.staticwebassets.runtime.json
-C:\Users\Ali Yedibela\BalKasar\bin\Debug\net9.0\BalKasar.staticwebassets.endpoints.json
-C:\Users\Ali Yedibela\BalKasar\bin\Debug\net9.0\BalKasar.exe
-C:\Users\Ali Yedibela\BalKasar\bin\Debug\net9.0\BalKasar.deps.json
-C:\Users\Ali Yedibela\BalKasar\bin\Debug\net9.0\BalKasar.runtimeconfig.json
-C:\Users\Ali Yedibela\BalKasar\bin\Debug\net9.0\BalKasar.dll
-C:\Users\Ali Yedibela\BalKasar\bin\Debug\net9.0\BalKasar.pdb
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\BalKasar.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\BalKasar.AssemblyInfoInputs.cache
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\BalKasar.AssemblyInfo.cs
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\BalKasar.csproj.CoreCompileInputs.cache
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\BalKasar.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\BalKasar.RazorAssemblyInfo.cache
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\BalKasar.RazorAssemblyInfo.cs
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\scopedcss\bundle\BalKasar.styles.css
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\scopedcss\projectbundle\BalKasar.bundle.scp.css
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\tor9dxej2h-61n19gt1b8.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\3p6hl01xfr-xtxxf3hu2r.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\wg5jt1z8zf-bqjiyaj88i.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\ni67fgwd5y-c2jlpeoesf.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\ogy2l24a3q-erw9l3u2r3.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\sc73p2bnvf-aexeepp0ev.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\3xmr6lxb83-d7shbmvgxk.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\v8ump6vuot-ausgxo2sd3.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\rtuq3tj6c8-k8d9w2qqmf.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\m1vy187tpv-cosvhxvwiu.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\svhvff4p7s-ub07r2b239.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\aksv70c26n-fvhpjtyr6v.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\32axs2zf3h-b7pk76d08c.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\nkesi36jcz-fsbi9cje9m.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\3oscr677hy-rzd6atqjts.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\27wvajm6tr-ee0r1s7dh0.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\wy3dkeuq6i-dxx9fxp4il.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\tw01a2ab2o-jd9uben2k1.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\ekhpti0dd0-khv3u5hwcm.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\loi72gxhck-r4e9w2rdcm.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\s26aqac25f-lcd1t2u6c8.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\lw1xku6fku-c2oey78nd0.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\pcp84f2y9w-tdbxkamptv.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\i0vuxywlu6-j5mq2jizvt.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\f7svtchl0v-06098lyss8.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\ff8le42xye-nvvlpmu67g.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\17puhhw6r8-s35ty4nyc5.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\s9e9wz6pkl-pj5nd1wqec.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\w7n5p7c226-46ein0sx1k.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\mouu79j8rg-v0zj4ognzu.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\3e5uce7f5v-37tfw0ft22.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\7dems0y26j-hrwsygsryq.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\c34ysfmzqa-pk9g2wxc8p.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\vxrkhebru7-ft3s53vfgj.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\brm7h7kir6-6cfz1n2cew.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\1h2mtjhhtq-6pdc2jztkx.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\h8tvv15d3c-493y06b0oq.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\edlfu40t4y-iovd86k7lj.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\0dpeo48fjd-vr1egmr9el.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\y9c850qbt8-kbrnm935zg.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\d857nurcl9-jj8uyg4cgr.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\40uuxy8j50-y7v9cxd14o.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\x3lxwjbm6m-notf2xhcfb.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\dkm2jhic47-h1s4sie4z3.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\bkuu65p0m2-63fj8s7r0e.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\waamsp3gws-0j3bgjxly4.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\2s9qals4x3-47otxtyo56.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\pars3gcx6a-4v8eqarkd7.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\ewx1rt0srd-356vix0kms.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\3aaj1vihpt-83jwlth58m.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\24pu879n89-mrlpezrjn3.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\n4lrv4z0oo-lzl9nlhx6b.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\we38f6vlyy-ag7o75518u.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\sl82znerrp-x0q3zqp4vz.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\ot0n3uuqpa-0i3buxo5is.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\952krvlbm8-o1o13a6vjx.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\y2mm15mhrn-ttgo8qnofa.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\mwodvko5fr-2z0ns9nrw6.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\uc1lvt5dcv-muycvpuwrr.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\o3qtktyjea-87fc7y1x7t.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\t50u2jgbcx-mlv21k5csn.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\i087gnmmzw-aqc9w6j3ol.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\uu8qymmaaa-aqc9w6j3ol.gz
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\staticwebassets.development.json
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\staticwebassets\msbuild.BalKasar.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\staticwebassets\msbuild.BalKasar.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\staticwebassets\msbuild.build.BalKasar.props
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BalKasar.props
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BalKasar.props
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\BalKasar.dll
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\refint\BalKasar.dll
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\BalKasar.pdb
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\BalKasar.genruntimeconfig.cache
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\ref\BalKasar.dll
-C:\Users\Ali Yedibela\BalKasar\obj\Debug\net9.0\compressed\5ps284fss1-91jl858b3y.gz
+C:/Users/Ali Yedibela/BalKasar/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/Ali Yedibela/BalKasar/bin/Debug/net9.0/appsettings.json
+C:/Users/Ali Yedibela/BalKasar/bin/Debug/net9.0/BalKasar.staticwebassets.runtime.json
+C:/Users/Ali Yedibela/BalKasar/bin/Debug/net9.0/BalKasar.staticwebassets.endpoints.json
+C:/Users/Ali Yedibela/BalKasar/bin/Debug/net9.0/BalKasar.exe
+C:/Users/Ali Yedibela/BalKasar/bin/Debug/net9.0/BalKasar.deps.json
+C:/Users/Ali Yedibela/BalKasar/bin/Debug/net9.0/BalKasar.runtimeconfig.json
+C:/Users/Ali Yedibela/BalKasar/bin/Debug/net9.0/BalKasar.dll
+C:/Users/Ali Yedibela/BalKasar/bin/Debug/net9.0/BalKasar.pdb
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/BalKasar.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/BalKasar.AssemblyInfoInputs.cache
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/BalKasar.AssemblyInfo.cs
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/BalKasar.csproj.CoreCompileInputs.cache
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/BalKasar.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/BalKasar.RazorAssemblyInfo.cache
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/BalKasar.RazorAssemblyInfo.cs
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/scopedcss/bundle/BalKasar.styles.css
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/scopedcss/projectbundle/BalKasar.bundle.scp.css
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/tor9dxej2h-61n19gt1b8.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/3p6hl01xfr-xtxxf3hu2r.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/wg5jt1z8zf-bqjiyaj88i.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/ni67fgwd5y-c2jlpeoesf.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/ogy2l24a3q-erw9l3u2r3.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/sc73p2bnvf-aexeepp0ev.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/3xmr6lxb83-d7shbmvgxk.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/v8ump6vuot-ausgxo2sd3.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/rtuq3tj6c8-k8d9w2qqmf.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/m1vy187tpv-cosvhxvwiu.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/svhvff4p7s-ub07r2b239.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/aksv70c26n-fvhpjtyr6v.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/32axs2zf3h-b7pk76d08c.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/nkesi36jcz-fsbi9cje9m.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/3oscr677hy-rzd6atqjts.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/27wvajm6tr-ee0r1s7dh0.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/wy3dkeuq6i-dxx9fxp4il.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/tw01a2ab2o-jd9uben2k1.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/ekhpti0dd0-khv3u5hwcm.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/loi72gxhck-r4e9w2rdcm.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/s26aqac25f-lcd1t2u6c8.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/lw1xku6fku-c2oey78nd0.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/pcp84f2y9w-tdbxkamptv.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/i0vuxywlu6-j5mq2jizvt.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/f7svtchl0v-06098lyss8.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/ff8le42xye-nvvlpmu67g.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/17puhhw6r8-s35ty4nyc5.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/s9e9wz6pkl-pj5nd1wqec.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/w7n5p7c226-46ein0sx1k.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/mouu79j8rg-v0zj4ognzu.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/3e5uce7f5v-37tfw0ft22.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/7dems0y26j-hrwsygsryq.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/c34ysfmzqa-pk9g2wxc8p.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/vxrkhebru7-ft3s53vfgj.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/brm7h7kir6-6cfz1n2cew.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/1h2mtjhhtq-6pdc2jztkx.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/h8tvv15d3c-493y06b0oq.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/edlfu40t4y-iovd86k7lj.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/0dpeo48fjd-vr1egmr9el.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/y9c850qbt8-kbrnm935zg.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/d857nurcl9-jj8uyg4cgr.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/40uuxy8j50-y7v9cxd14o.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/x3lxwjbm6m-notf2xhcfb.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/dkm2jhic47-h1s4sie4z3.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/bkuu65p0m2-63fj8s7r0e.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/waamsp3gws-0j3bgjxly4.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/2s9qals4x3-47otxtyo56.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/pars3gcx6a-4v8eqarkd7.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/ewx1rt0srd-356vix0kms.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/3aaj1vihpt-83jwlth58m.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/24pu879n89-mrlpezrjn3.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/n4lrv4z0oo-lzl9nlhx6b.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/we38f6vlyy-ag7o75518u.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/sl82znerrp-x0q3zqp4vz.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/ot0n3uuqpa-0i3buxo5is.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/952krvlbm8-o1o13a6vjx.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/y2mm15mhrn-ttgo8qnofa.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/mwodvko5fr-2z0ns9nrw6.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/uc1lvt5dcv-muycvpuwrr.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/o3qtktyjea-87fc7y1x7t.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/t50u2jgbcx-mlv21k5csn.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/i087gnmmzw-aqc9w6j3ol.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/uu8qymmaaa-aqc9w6j3ol.gz
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/staticwebassets/msbuild.BalKasar.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/staticwebassets/msbuild.BalKasar.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/staticwebassets/msbuild.build.BalKasar.props
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.BalKasar.props
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.BalKasar.props
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/staticwebassets.pack.json
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/BalKasar.dll
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/refint/BalKasar.dll
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/BalKasar.pdb
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/BalKasar.genruntimeconfig.cache
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/ref/BalKasar.dll
+C:/Users/Ali Yedibela/BalKasar/obj/Debug/net9.0/compressed/5ps284fss1-91jl858b3y.gz
+/app/bin/Debug/net9.0/appsettings.Development.json
+/app/bin/Debug/net9.0/appsettings.json
+/app/bin/Debug/net9.0/BalKasar.staticwebassets.runtime.json
+/app/bin/Debug/net9.0/BalKasar.staticwebassets.endpoints.json
+/app/bin/Debug/net9.0/BalKasar
+/app/bin/Debug/net9.0/BalKasar.deps.json
+/app/bin/Debug/net9.0/BalKasar.runtimeconfig.json
+/app/bin/Debug/net9.0/BalKasar.dll
+/app/bin/Debug/net9.0/BalKasar.pdb
+/app/obj/Debug/net9.0/BalKasar.GeneratedMSBuildEditorConfig.editorconfig
+/app/obj/Debug/net9.0/BalKasar.AssemblyInfoInputs.cache
+/app/obj/Debug/net9.0/BalKasar.AssemblyInfo.cs
+/app/obj/Debug/net9.0/BalKasar.csproj.CoreCompileInputs.cache
+/app/obj/Debug/net9.0/BalKasar.MvcApplicationPartsAssemblyInfo.cache
+/app/obj/Debug/net9.0/BalKasar.RazorAssemblyInfo.cache
+/app/obj/Debug/net9.0/BalKasar.RazorAssemblyInfo.cs
+/app/obj/Debug/net9.0/BalKasar.sourcelink.json
+/app/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/app/obj/Debug/net9.0/scopedcss/bundle/BalKasar.styles.css
+/app/obj/Debug/net9.0/scopedcss/projectbundle/BalKasar.bundle.scp.css
+/app/obj/Debug/net9.0/compressed/5ps284fss1-91jl858b3y.gz
+/app/obj/Debug/net9.0/compressed/tor9dxej2h-61n19gt1b8.gz
+/app/obj/Debug/net9.0/compressed/3p6hl01xfr-xtxxf3hu2r.gz
+/app/obj/Debug/net9.0/compressed/wg5jt1z8zf-bqjiyaj88i.gz
+/app/obj/Debug/net9.0/compressed/ni67fgwd5y-c2jlpeoesf.gz
+/app/obj/Debug/net9.0/compressed/ogy2l24a3q-erw9l3u2r3.gz
+/app/obj/Debug/net9.0/compressed/sc73p2bnvf-aexeepp0ev.gz
+/app/obj/Debug/net9.0/compressed/3xmr6lxb83-d7shbmvgxk.gz
+/app/obj/Debug/net9.0/compressed/v8ump6vuot-ausgxo2sd3.gz
+/app/obj/Debug/net9.0/compressed/rtuq3tj6c8-k8d9w2qqmf.gz
+/app/obj/Debug/net9.0/compressed/m1vy187tpv-cosvhxvwiu.gz
+/app/obj/Debug/net9.0/compressed/svhvff4p7s-ub07r2b239.gz
+/app/obj/Debug/net9.0/compressed/aksv70c26n-fvhpjtyr6v.gz
+/app/obj/Debug/net9.0/compressed/32axs2zf3h-b7pk76d08c.gz
+/app/obj/Debug/net9.0/compressed/nkesi36jcz-fsbi9cje9m.gz
+/app/obj/Debug/net9.0/compressed/3oscr677hy-rzd6atqjts.gz
+/app/obj/Debug/net9.0/compressed/27wvajm6tr-ee0r1s7dh0.gz
+/app/obj/Debug/net9.0/compressed/wy3dkeuq6i-dxx9fxp4il.gz
+/app/obj/Debug/net9.0/compressed/tw01a2ab2o-jd9uben2k1.gz
+/app/obj/Debug/net9.0/compressed/ekhpti0dd0-khv3u5hwcm.gz
+/app/obj/Debug/net9.0/compressed/loi72gxhck-r4e9w2rdcm.gz
+/app/obj/Debug/net9.0/compressed/s26aqac25f-lcd1t2u6c8.gz
+/app/obj/Debug/net9.0/compressed/lw1xku6fku-c2oey78nd0.gz
+/app/obj/Debug/net9.0/compressed/pcp84f2y9w-tdbxkamptv.gz
+/app/obj/Debug/net9.0/compressed/i0vuxywlu6-j5mq2jizvt.gz
+/app/obj/Debug/net9.0/compressed/f7svtchl0v-06098lyss8.gz
+/app/obj/Debug/net9.0/compressed/ff8le42xye-nvvlpmu67g.gz
+/app/obj/Debug/net9.0/compressed/17puhhw6r8-s35ty4nyc5.gz
+/app/obj/Debug/net9.0/compressed/s9e9wz6pkl-pj5nd1wqec.gz
+/app/obj/Debug/net9.0/compressed/w7n5p7c226-46ein0sx1k.gz
+/app/obj/Debug/net9.0/compressed/mouu79j8rg-v0zj4ognzu.gz
+/app/obj/Debug/net9.0/compressed/3e5uce7f5v-37tfw0ft22.gz
+/app/obj/Debug/net9.0/compressed/7dems0y26j-hrwsygsryq.gz
+/app/obj/Debug/net9.0/compressed/c34ysfmzqa-pk9g2wxc8p.gz
+/app/obj/Debug/net9.0/compressed/vxrkhebru7-ft3s53vfgj.gz
+/app/obj/Debug/net9.0/compressed/brm7h7kir6-6cfz1n2cew.gz
+/app/obj/Debug/net9.0/compressed/1h2mtjhhtq-6pdc2jztkx.gz
+/app/obj/Debug/net9.0/compressed/h8tvv15d3c-493y06b0oq.gz
+/app/obj/Debug/net9.0/compressed/edlfu40t4y-iovd86k7lj.gz
+/app/obj/Debug/net9.0/compressed/0dpeo48fjd-vr1egmr9el.gz
+/app/obj/Debug/net9.0/compressed/y9c850qbt8-kbrnm935zg.gz
+/app/obj/Debug/net9.0/compressed/d857nurcl9-jj8uyg4cgr.gz
+/app/obj/Debug/net9.0/compressed/40uuxy8j50-y7v9cxd14o.gz
+/app/obj/Debug/net9.0/compressed/x3lxwjbm6m-notf2xhcfb.gz
+/app/obj/Debug/net9.0/compressed/dkm2jhic47-h1s4sie4z3.gz
+/app/obj/Debug/net9.0/compressed/bkuu65p0m2-63fj8s7r0e.gz
+/app/obj/Debug/net9.0/compressed/waamsp3gws-0j3bgjxly4.gz
+/app/obj/Debug/net9.0/compressed/2s9qals4x3-47otxtyo56.gz
+/app/obj/Debug/net9.0/compressed/pars3gcx6a-4v8eqarkd7.gz
+/app/obj/Debug/net9.0/compressed/ewx1rt0srd-356vix0kms.gz
+/app/obj/Debug/net9.0/compressed/3aaj1vihpt-83jwlth58m.gz
+/app/obj/Debug/net9.0/compressed/24pu879n89-mrlpezrjn3.gz
+/app/obj/Debug/net9.0/compressed/n4lrv4z0oo-lzl9nlhx6b.gz
+/app/obj/Debug/net9.0/compressed/we38f6vlyy-ag7o75518u.gz
+/app/obj/Debug/net9.0/compressed/sl82znerrp-x0q3zqp4vz.gz
+/app/obj/Debug/net9.0/compressed/ot0n3uuqpa-0i3buxo5is.gz
+/app/obj/Debug/net9.0/compressed/952krvlbm8-o1o13a6vjx.gz
+/app/obj/Debug/net9.0/compressed/y2mm15mhrn-ttgo8qnofa.gz
+/app/obj/Debug/net9.0/compressed/mwodvko5fr-2z0ns9nrw6.gz
+/app/obj/Debug/net9.0/compressed/uc1lvt5dcv-muycvpuwrr.gz
+/app/obj/Debug/net9.0/compressed/o3qtktyjea-87fc7y1x7t.gz
+/app/obj/Debug/net9.0/compressed/t50u2jgbcx-mlv21k5csn.gz
+/app/obj/Debug/net9.0/compressed/i087gnmmzw-0g3s5p54dj.gz
+/app/obj/Debug/net9.0/compressed/uu8qymmaaa-0g3s5p54dj.gz
+/app/obj/Debug/net9.0/staticwebassets.build.json
+/app/obj/Debug/net9.0/staticwebassets.development.json
+/app/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/app/obj/Debug/net9.0/staticwebassets/msbuild.BalKasar.Microsoft.AspNetCore.StaticWebAssets.props
+/app/obj/Debug/net9.0/staticwebassets/msbuild.BalKasar.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/app/obj/Debug/net9.0/staticwebassets/msbuild.build.BalKasar.props
+/app/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.BalKasar.props
+/app/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.BalKasar.props
+/app/obj/Debug/net9.0/staticwebassets.pack.json
+/app/obj/Debug/net9.0/BalKasar.dll
+/app/obj/Debug/net9.0/refint/BalKasar.dll
+/app/obj/Debug/net9.0/BalKasar.pdb
+/app/obj/Debug/net9.0/BalKasar.genruntimeconfig.cache
+/app/obj/Debug/net9.0/ref/BalKasar.dll
