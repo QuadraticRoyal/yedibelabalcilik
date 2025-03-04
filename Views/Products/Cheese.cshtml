@@ -1,5 +1,10 @@
 @model List<Product>
 
+@{
+    ViewData["Title"] = "Yedibela Balcılık";
+}
+
+
 <div class="container mt-5 text-center">
     <h1 class="text-warning fw-bold">Peynir Ürünleri</h1>
 
@@ -43,7 +48,16 @@
 
     </div>
 
+    <div class="row mt-5">
+        <div class="col text-center">
+            <a href="https://wa.me/905367874071?text=Merhaba,%20iyi%20günler.%0A%0ASiteniz%20üzerinden%20ürünlerinizi%20inceledim%20ve%20sipariş%20vermek%20istiyorum.%0A%0AMevcut%20stok%20durumunuz%20ve%20ödeme%20seçenekleriniz%20hakkında%20bilgi%20alabilir%20miyim?%0A%0ATeşekkür%20ederim."
+                class="btn btn-success btn-lg shadow-lg px-4 py-2" target="_blank">
+                <img src="~/images/whatsapp-logo.png" alt="WhatsApp" style="width: 50px; height: 50px; margin-right: 10px;"> WhatsApp
+            </a>
+        </div>
+    </div>
+
     <div class="mt-4">
-        <a href="/Products" class="btn btn-secondary">Tüm Ürünlere Dön</a>
+        <a href="/Home" class="btn btn-secondary">Anasayfaya Dön</a>
     </div>
 </div>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BalKasar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acbee4c82c835128cb41c1675c929f33710778f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1671a0af2bff96d0d3df2916e432df9f85841fbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("BalKasar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BalKasar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
