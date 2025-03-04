@@ -1,0 +1,118 @@
+body {
+  background-color: #fffbee;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.lead {
+  font-size: 1.2rem;
+}
+
+.btn-warning {
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+}
+
+#yedibela-page .shadow-lg {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out;
+}
+
+#yedibela-page .shadow-lg::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.1);
+  filter: blur(8px);
+  z-index: -1;
+  transition: all 0.3s ease-in-out;
+}
+
+#yedibela-page .shadow-lg:hover {
+  transform: scale(1.05);
+}
+
+#yedibela-page .shadow-lg:hover::before {
+  filter: blur(12px);
+  background: rgba(0, 0, 0, 0.15);
+}
+
+/* Navbar için modern efektler */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.9); /* Hafif şeffaf arka plan */
+  backdrop-filter: blur(10px); /* Arka planı bulanıklaştır */
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Hover ve scroll sonrası animasyonlar */
+.navbar:hover {
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Navbar linkleri için modern efekt */
+/* Navbar linkleri için modern efekt */
+.navbar-nav .nav-link {
+  position: relative;
+  color: #333;
+  font-weight: 500;
+  padding: 8px 15px;
+  transition: color 0.3s ease-in-out;
+}
+
+/* Hover efekti için alttan yukarı dolan animasyon */
+.navbar-nav .nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 0;
+  background-color: #ff9800; /* Turuncu dolgu */
+  transition: height 0.3s ease-in-out;
+  z-index: -1;
+  border-radius: 4px;
+}
+
+/* Hover olduğunda dolgu yukarı çıksın */
+.navbar-nav .nav-link:hover {
+  color: #fff; /* Yazıyı beyaza çevir */
+}
+
+.navbar-nav .nav-link:hover::after {
+  height: 100%;
+}
+
+
+/* Mobil görünüm için buton animasyonu */
+.navbar-toggler {
+  border: none;
+  outline: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.navbar-toggler:hover {
+  transform: scale(1.1);
+  background: rgba(255, 152, 0, 0.1); /* Hafif turuncu dokunuş */
+}
+
+/* Navbar küçülünce efekt */
+.navbar.shrink {
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+

@@ -1,0 +1,49 @@
+@model List<Product>
+
+<div class="container mt-5 text-center">
+    <h1 class="text-warning fw-bold">Geleneksel Kurutulmuş Lezzetler</h1>
+
+    <div class="row mt-3 d-flex justify-content-center">
+   @for (int i = 0; i < Model.Count; i++)
+{
+    var product = Model[i];
+    <div class="col-md-4 mb-4">
+        <div class="card shadow">
+            @if (!string.IsNullOrEmpty(product.ImageUrl1))
+            {
+                <div id="carousel-@i" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="@product.ImageUrl" class="d-block w-100" alt="@product.Name">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="@product.ImageUrl1" class="d-block w-100" alt="@product.Name">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carousel-@i" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carousel-@i" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    </button>
+                </div>
+            }
+            else
+            {
+                <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name">
+            }
+
+            <div class="card-body">
+                <h5 class="card-title">@product.Name</h5>
+                <p class="card-text fw-bold text-danger">Fiyatı öğrenmek için Whatsapp'tan ulaşın!</p>
+            </div>
+        </div>
+    </div>
+}
+
+    </div>
+
+    <div class="mt-4">
+        <a href="/Products" class="btn btn-secondary">Tüm Ürünlere Dön</a>
+    </div>
+</div>
